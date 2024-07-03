@@ -1,2 +1,2 @@
-# HTML_CSS_Templage_Youssef-Dev
+# HTML_CSS_Template_Youssef-Dev
 HTML_CSS_Template
